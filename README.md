@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Pablo a 36 hopeful game developer from Spain.
+I'm currently unemployed but working to complete the common core at 42 Málaga Fundación Telefónica.
+I'm currently learning programing and have studied Unity on my own and recentrly completed Curso de Especialización en Desarrollo de videojuegos y realidad virtual at IES Fuengirola Nº 1.
 
 <!--
 **PIllesca/PIllesca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
